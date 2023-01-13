@@ -6,7 +6,7 @@
 
 # LetterleClone
 
-This is the LetterleClone application. This application is inspired by: https://edjefferson.com/letterle/
+This is the LetterleClone application. This application is inspired by: https://edjefferson.com/letterle/ <br/>
 Guess the correct letter and see how many attempts it took. This is a skeleton project that includes all assets you need to build the application.
 
 ## Getting Started
