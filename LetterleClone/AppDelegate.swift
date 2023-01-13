@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  LetterleClone
 //
-//  Created by Abhishek Jariwala on 12/8/22.
-//
 
 import UIKit
 
