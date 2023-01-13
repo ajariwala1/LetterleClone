@@ -6,13 +6,15 @@
 
 # LetterleClone
 
-This is the LetterleClone application. This application is inspired by: https://edjefferson.com/letterle/ <br/>
-Guess the correct letter and see how many attempts it took. This is a skeleton project that includes all assets you need to build the application.
+This is the LetterleClone application. <br/> 
+Guess the correct letter and see how many attempts it took. This is a skeleton project that includes all assets you need to build the application. <br/>
+This application is inspired by: https://edjefferson.com/letterle/
 
 ## Getting Started
 
 Clone the project and see the lecture video on Canvas under Module 4 for instructions. <br/>
 See the completed Letterle application here: <br/>
+https://github.com/ajariwala1/Letterle_Completed
 
 ## What you will learn
 
