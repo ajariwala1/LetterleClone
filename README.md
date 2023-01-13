@@ -18,5 +18,4 @@ See the completed Letterle application here: <br/>
 
 - ViewController LifeCycle.
 - Design LaunchScreen.storyboard.
-- Alignment and Pinning.
 - Swift IBAction with multiple buttons.
